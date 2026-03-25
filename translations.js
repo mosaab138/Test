@@ -1,6 +1,7 @@
 const translations = {
   fr: {
     pageTitle: "Dr. Zineb Aït Si Ali — Endocrinologie & Diabétologie, Marrakech",
+    logoDr: "Dr. ",
     logoZineb: "Zineb",
     logoLast: "Aït Si Ali",
     navRdv: "Prendre RDV",
@@ -111,6 +112,7 @@ const translations = {
   },
   en: {
     pageTitle: "Dr. Zineb Aït Si Ali — Endocrinology & Diabetology, Marrakech",
+    logoDr: "Dr. ",
     logoZineb: "Zineb",
     logoLast: "Aït Si Ali",
     navRdv: "Book Appt",
@@ -221,6 +223,7 @@ const translations = {
   },
   ar: {
     pageTitle: "د. زينب آيت سي علي — طب الغدد الصماء والسكري، مراكش",
+    logoDr: "د. ",
     logoZineb: "زينب",
     logoLast: "آيت سي علي",
     navRdv: "حجز موعد",
