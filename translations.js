@@ -23,7 +23,7 @@ const translations = {
     stat3: "Note Google",
     stat4: "Suivi personnalisé",
     approachEyebrow: "Notre approche",
-    approachTitleHtml: "Pourquoi choisir <em>notre cabinet ?</em>",
+    approachTitleHtml: "Pourquoi choisir <em>notre cabinet&nbsp;?</em>",
     approachLead: "Le Dr Zineb Aït Si Ali allie expertise médicale pointue et écoute bienveillante. Chaque consultation est un moment dédié à votre santé, sans précipitation.",
     pillar1Title: "Expertise Certifiée",
     pillar1Desc: "Spécialiste diplômée, formée aux derniers protocoles internationaux.",
@@ -106,6 +106,7 @@ const translations = {
     footerHoursWk: "Lun-Ven: 9h00 - 18h00",
     footerHoursWknd: "Sam: 9h00 - 13h00",
     footerCopy: "© 2026 Cabinet Dr Zineb AIT SI ALI. Tous droits réservés.",
+    footerCreatedBy: "Créé par",
     toastMsg: "✓ Votre demande a été envoyée ! Nous vous recontactons sous 24h."
   },
   en: {
@@ -215,6 +216,7 @@ const translations = {
     footerHoursWk: "Mon-Fri: 9:00 AM - 6:00 PM",
     footerHoursWknd: "Sat: 9:00 AM - 1:00 PM",
     footerCopy: "© 2026 Dr Zineb AIT SI ALI Clinic. All rights reserved.",
+    footerCreatedBy: "Created by",
     toastMsg: "✓ Your request has been sent! We will contact you within 24 hours."
   },
   ar: {
@@ -324,6 +326,7 @@ const translations = {
     footerHoursWk: "الإثنين-الجمعة: 9:00 ص - 6:00 م",
     footerHoursWknd: "السبت: 9:00 ص - 1:00 م",
     footerCopy: "© 2026 عيادة د. زينب آيت سي علي. جميع الحقوق محفوظة.",
+    footerCreatedBy: "تم الإنشاء بواسطة",
     toastMsg: "✓ تم إرسال طلبك! سنتصل بك في غضون 24 ساعة."
   }
 };
